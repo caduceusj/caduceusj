@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Game Development, Game Design, Game Programming and Narrative Design
 - 📫 How to reach me: My contact information is currently stored in my Github Page: caduceus.github.io
 
-<img src="{https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white}" />
+![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}
+
 
 <!---
 caduceusj/caduceusj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
