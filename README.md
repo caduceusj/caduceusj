@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning Java and Gscript
 - 💞️ I’m looking to collaborate on Game Development, Game Design, Game Programming and Narrative Design
-- 📫 How to reach me: My contact information is currently stored in my Github Page: https://caduceus.github.io
+- 📫 How to reach me: My contact information is currently stored in my Github Page: https://caduceusj.github.io/
 
 
 <!---
