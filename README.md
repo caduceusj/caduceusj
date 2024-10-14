@@ -5,7 +5,6 @@
 - 📫 How to reach me: My contact information is currently stored in my Github Page: https://caduceusj.github.io/
 
 
-the art in my profile pic was made by ig:ssam_reptile
 
 <!---
 caduceusj/caduceusj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
